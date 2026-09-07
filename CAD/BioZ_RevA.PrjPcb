@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GVNKVESE
 
 [Document3]
-DocumentPath=LOADS.SchDoc
+DocumentPath=LOADS AND POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=QIUPZDPS
 
 [Document4]
-DocumentPath=Sheet1.SchDoc
+DocumentPath=SENSE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
