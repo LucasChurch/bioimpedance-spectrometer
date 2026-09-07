@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GVNKVESE
 
 [Document3]
-DocumentPath=LOADS AND POWER.SchDoc
+DocumentPath=LOADS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -184,6 +184,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VTIHXBOG
+
+[Document9]
+DocumentPath=POWER.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VDFHFUAH
 
 [Configuration1]
 Name=Sources
@@ -1120,10 +1137,22 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=BioZ.SchLib
+ComponentDesignItemID0=AD9837BCPZ-RL7
+ComponentSymbolReference0=AD9837BCPZ-RL7
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=BioZ.SchLib
+ComponentDesignItemID1=USB4085-GF-A
+ComponentSymbolReference1=USB4085-GF-A
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1137,6 +1166,32 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Copyright
+ParameterUpdate2=1
+ParameterName3=Description
+ParameterUpdate3=1
+ParameterName4=Library Reference
+ParameterUpdate4=1
+ParameterName5=Manufacturer_Name
+ParameterUpdate5=1
+ParameterName6=Manufacturer_Part_Number
+ParameterUpdate6=1
+ParameterName7=RefDes
+ParameterUpdate7=1
+ParameterName8=Type
+ParameterUpdate8=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=CONN16_USB4085-GF-A_GCT
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=LFCSP-WD (3x3) - 10 Pin EPAD
+ModelUpdate1=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
