@@ -1,0 +1,66 @@
+# History and backups
+History/
+__Previews/
+*.bak
+*.BAK
+*.PcbDoc.bak
+*.SchDoc.bak
+*.Harness.bak
+
+# Auto-generated project files
+*.PrjPcbStructure
+*.aps
+
+# Logs
+*.log
+*.LOG
+
+# Annotation files
+*.Annotation
+
+# Snap-to-grid
+*.DsnWrk
+
+# Exported outputs
+*.GBL
+*.GTL
+*.GBS
+*.GTS
+*.GBO
+*.GTO
+*.GM1
+*.DRL
+*.TXT
+*.REP
+*.DRC
+*.ERR
+*.RUL
+*.CSV
+
+# LTspice outputs
+*.raw
+*.op.raw
+*.dc.raw
+*.ac.raw
+*.tran.raw
+*.fft.raw
+*.plt
+
+# BOM exports
+*.xlsx
+*.xls
+*.csv
+
+# Simulation files
+*.sdf
+*.sim
+
+# Lock files
+*.lck
+
+# Windows thumbnail cache
+Thumbs.db
+desktop.ini
+
+# OS X
+.DS_Store
