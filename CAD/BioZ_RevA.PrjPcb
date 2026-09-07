@@ -50,6 +50,57 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=MEHCP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VTIHXBOG
+
+[Document2]
+DocumentPath=MCU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GVNKVESE
+
+[Document3]
+DocumentPath=LOADS.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QIUPZDPS
+
+[Document4]
 DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUFWQSST
 
-[Document2]
+[Document5]
 DocumentPath=BioZ.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DPEJCTJN
 
-[Document3]
+[Document6]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CUITATJR
 
-[Document4]
+[Document7]
 DocumentPath=BioZ.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MLGQCSRK
 
-[Document5]
+[Document8]
 DocumentPath=Sheet2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
