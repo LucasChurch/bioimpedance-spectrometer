@@ -4,7 +4,7 @@
 
 A discrete multi-frequency tetrapolar bioimpedance spectroscopy system. The intent of this project is to evaluate several bioimpedance current-source topologies from the literature via simulation, and validate the strongest candidate on a development board. Benchmarking results will be performed first against a resistor phantom and later on tissue. The board includes a low-noise, precision, analog front-end, and an STM32G0 microcontroller for digital lock-in filtering via a Goertzel filter, as well as the synchronous control of the excitation and sense chains.
 
-![Block Diagram](images/block-diagram.png)
+![Block Diagram](Images/block_diagram.png)
 
 ## Quick Links
 
@@ -25,7 +25,7 @@ A discrete multi-frequency tetrapolar bioimpedance spectroscopy system. The inte
 - **Power** - Rechargeable LiPo cell via USB-C. 5V boost charge pump for excitation. Software-controlled high-side switch for analog chain for power saving
 - **MCU** - STM32G071
 
-![PCB 3D Model](images/pcb_render_revA.png)
+![PCB 3D Model](Images/pcb_render_revA.PNG)
 
 ## Roadmap
 
