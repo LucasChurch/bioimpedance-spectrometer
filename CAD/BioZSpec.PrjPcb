@@ -203,23 +203,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=BioZSpec.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
 DocumentPath=BioZ.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -237,195 +220,95 @@ GenerateClassCluster=0
 DocumentUniqueId=CSKEEKIR
 
 [GeneratedDocument1]
-DocumentPath=BOM\Bill of Materials-BioZSpec.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Outputs\BOM\Bill of Materials-BioZSpec.xlsx
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Outputs\IPC2581\BioZ.cvg
+DItemRevisionGUID=
+
 [GeneratedDocument3]
-DocumentPath=BOM\Bill of Materials-BioZSpecPrjPcb.xlsx
+DocumentPath=Outputs\NC Drill\BioZ.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=.\Outputs\IPC2581\BioZ.cvg
+DocumentPath=Outputs\GerberX2\BioZ.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=IPC2581\BioZ.cvg
+DocumentPath=Outputs\NC Drill\BioZ.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=.\Outputs\NC Drill\BioZ.DRR
+DocumentPath=Outputs\GerberX2\BioZ.REP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=NC Drill\BioZ.DRR
+DocumentPath=Outputs\ExportSTEP\BioZ.step
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=.\Outputs\GerberX2\BioZ.EXTREP
+DocumentPath=Outputs\NC Drill\BioZ.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=GerberX2\BioZ.EXTREP
+DocumentPath=Outputs\GerberX2\BioZ_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=.\Outputs\NC Drill\BioZ.LDP
+DocumentPath=Outputs\GerberX2\BioZ_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=NC Drill\BioZ.LDP
+DocumentPath=Outputs\GerberX2\BioZ_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=.\Outputs\GerberX2\BioZ.REP
+DocumentPath=Outputs\GerberX2\BioZ_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=GerberX2\BioZ.REP
+DocumentPath=Outputs\GerberX2\BioZ_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=.\Outputs\ExportSTEP\BioZ.step
+DocumentPath=Outputs\GerberX2\BioZ_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=ExportSTEP\BioZ.step
+DocumentPath=Outputs\GerberX2\BioZ_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=.\Outputs\NC Drill\BioZ.TXT
+DocumentPath=Outputs\GerberX2\BioZ_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=NC Drill\BioZ.TXT
+DocumentPath=Outputs\GerberX2\BioZ_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=.\Outputs\GerberX2\BioZ_Copper_Plane_1.gbr
+DocumentPath=Outputs\GerberX2\BioZ_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=GerberX2\BioZ_Copper_Plane_1.gbr
+DocumentPath=Outputs\GerberX2\BioZ_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=.\Outputs\GerberX2\BioZ_Copper_Plane_2.gbr
+DocumentPath=Outputs\GerberX2\BioZ_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=GerberX2\BioZ_Copper_Plane_2.gbr
+DocumentPath=Outputs\GerberX2\BioZ_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=.\Outputs\GerberX2\BioZ_Copper_Signal_Bot.gbr
+DocumentPath=Outputs\GerberX2\BioZ_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=GerberX2\BioZ_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=.\Outputs\GerberX2\BioZ_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=GerberX2\BioZ_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=.\Outputs\GerberX2\BioZ_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=GerberX2\BioZ_Drawing_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=.\Outputs\GerberX2\BioZ_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=GerberX2\BioZ_Drillmap_1.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=.\Outputs\GerberX2\BioZ_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=GerberX2\BioZ_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=.\Outputs\GerberX2\BioZ_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=GerberX2\BioZ_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=.\Outputs\GerberX2\BioZ_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=GerberX2\BioZ_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=.\Outputs\GerberX2\BioZ_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=GerberX2\BioZ_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=.\Outputs\GerberX2\BioZ_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=GerberX2\BioZ_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=.\Outputs\GerberX2\BioZ_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=GerberX2\BioZ_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=.\Outputs\GerberX2\BioZ_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=GerberX2\BioZ_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=.\Outputs\GerberX2\BioZ_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=GerberX2\BioZ_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=.\Outputs\GerberX2\BioZ_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=GerberX2\BioZ_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for BioZSpecPrjPcb\Design Rule Check - BioZ.html
+DocumentPath=Outputs\GerberX2\BioZ_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Configuration1]
@@ -484,53 +367,61 @@ Name=Netlist Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=CadnetixNetlist
-OutputName1=Cadnetix Netlist
+OutputType1=RacalNetlist
+OutputName1=Racal Netlist
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
-OutputType2=CalayNetlist
-OutputName2=Calay Netlist
+OutputType2=RINFNetlist
+OutputName2=RINF Netlist
 OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
-OutputType3=EDIF
-OutputName3=EDIF for PCB
+OutputType3=ProtelNetlist
+OutputName3=Protel
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=EESofNetlist
-OutputName4=EESof Netlist
+Configuration3_Name1=ForceUpdateSettings
+Configuration3_Item1=False
+Configuration3_Name2=OutputConfigurationParameter1
+Configuration3_Item2=NetlistVersion=0|Record=ProtelNetlistView|DocumentPath=[Project]
+OutputType4=PCADnltNetlist
+OutputName4=PCADnlt Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=IntergraphNetlist
-OutputName5=Intergraph Netlist
+OutputType5=Protel2Netlist
+OutputName5=Protel2 Netlist
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=MentorBoardStationNetlist
-OutputName6=Mentor BoardStation Netlist
+Configuration5_Name1=ForceUpdateSettings
+Configuration5_Item1=False
+Configuration5_Name2=OutputConfigurationParameter1
+Configuration5_Item2={
+OutputType6=WireListNetlist
+OutputName6=WireList Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=MultiWire
-OutputName7=MultiWire
+OutputType7=XSpiceNetlist
+OutputName7=Mixed Sim Netlist
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=OrCadPCB2Netlist
-OutputName8=Orcad/PCB2 Netlist
+OutputType8=TelesisNetlist
+OutputName8=Telesis Netlist
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=PADSNetlist
-OutputName9=PADS ASCII Netlist
+OutputType9=SciCardsNetlist
+OutputName9=SciCards Netlist
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Pcad
-OutputName10=Pcad for PCB
+OutputType10=TangoNetlist
+OutputName10=Tango Netlist
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
@@ -539,61 +430,53 @@ OutputName11=PCAD Netlist
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=PCADnltNetlist
-OutputName12=PCADnlt Netlist
+OutputType12=EESofNetlist
+OutputName12=EESof Netlist
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Protel2Netlist
-OutputName13=Protel2 Netlist
+OutputType13=IntergraphNetlist
+OutputName13=Intergraph Netlist
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-Configuration13_Name1=ForceUpdateSettings
-Configuration13_Item1=False
-Configuration13_Name2=OutputConfigurationParameter1
-Configuration13_Item2={
-OutputType14=ProtelNetlist
-OutputName14=Protel
+OutputType14=EDIF
+OutputName14=EDIF for PCB
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-Configuration14_Name1=ForceUpdateSettings
-Configuration14_Item1=False
-Configuration14_Name2=OutputConfigurationParameter1
-Configuration14_Item2=NetlistVersion=0|Record=ProtelNetlistView|DocumentPath=[Project]
-OutputType15=RacalNetlist
-OutputName15=Racal Netlist
+OutputType15=CadnetixNetlist
+OutputName15=Cadnetix Netlist
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-OutputType16=RINFNetlist
-OutputName16=RINF Netlist
+OutputType16=CalayNetlist
+OutputName16=Calay Netlist
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-OutputType17=SciCardsNetlist
-OutputName17=SciCards Netlist
+OutputType17=PADSNetlist
+OutputName17=PADS ASCII Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=TangoNetlist
-OutputName18=Tango Netlist
+OutputType18=Pcad
+OutputName18=Pcad for PCB
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=TelesisNetlist
-OutputName19=Telesis Netlist
+OutputType19=OrCadPCB2Netlist
+OutputName19=Orcad/PCB2 Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=WireListNetlist
-OutputName20=WireList Netlist
+OutputType20=MentorBoardStationNetlist
+OutputName20=Mentor BoardStation Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=XSpiceNetlist
-OutputName21=Mixed Sim Netlist
+OutputType21=MultiWire
+OutputName21=MultiWire
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
