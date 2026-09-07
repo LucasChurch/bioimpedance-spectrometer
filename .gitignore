@@ -7,6 +7,10 @@ __Previews/
 *.SchDoc.bak
 *.Harness.bak
 
+# Reference Documentation (for now)
+Reference/
+Datasheets/
+
 # Auto-generated project files
 *.PrjPcbStructure
 *.aps
