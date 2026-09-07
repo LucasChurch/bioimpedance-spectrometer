@@ -1,4 +1,4 @@
-# History and backups
+# Altium backups & auto-generated project files
 History/
 __Previews/
 *.bak
@@ -6,43 +6,26 @@ __Previews/
 *.PcbDoc.bak
 *.SchDoc.bak
 *.Harness.bak
-
-# Reference Documentation (for now)
-Reference/
-Datasheets/
-
-# Auto-generated project files
 *.PrjPcbStructure
 *.aps
+*.Annotation
+*.DsnWrk
+*.lck
 
 # Logs
 *.log
 *.LOG
 
-# Annotation files
-*.Annotation
-
-# Snap-to-grid
-*.DsnWrk
-
-# Exported outputs
-*.GBL
-*.GTL
-*.GBS
-*.GTS
-*.GBO
-*.GTO
-*.GM1
-*.DRL
-*.TXT
-*.REP
+# Design check reports (regenerate locally, don't publish until clean)
 *.DRC
 *.ERR
 *.RUL
-*.CSV
-*.NET
 
-# LTspice outputs
+# Netlist exports (regenerate from schematic, not standalone useful)
+*.NET
+*.net
+
+# LTspice simulation outputs (regenerate by running the .asc)
 *.raw
 *.op.raw
 *.dc.raw
@@ -50,23 +33,14 @@ Datasheets/
 *.tran.raw
 *.fft.raw
 *.plt
-*.net
-
-# BOM exports
-*.xlsx
-*.xls
-*.csv
-
-# Simulation files
 *.sdf
 *.sim
 
-# Lock files
-*.lck
+# Reference material (copyrighted datasheets/papers — not for redistribution)
+Reference/
+Datasheets/
 
-# Windows thumbnail cache
+# OS junk
 Thumbs.db
 desktop.ini
-
-# OS X
 .DS_Store
