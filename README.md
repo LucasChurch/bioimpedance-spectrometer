@@ -1,4 +1,5 @@
 # Bioimpedance Spectrometer Development Board
+*Bench/research instrument. Not a certified medical device. Not for patient, diagnostic, or clinical use.*
 
 ## Overview
 
