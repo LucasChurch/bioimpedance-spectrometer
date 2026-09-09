@@ -1,0 +1,11 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [CAL JIG.PcbDoc]
+   Generated File[CAL JIG.LDP]
+   Generated File[CAL JIG.DRR]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 00:01:17 On 2026-09-09

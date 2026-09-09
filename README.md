@@ -9,9 +9,9 @@ A discrete multi-frequency tetrapolar bioimpedance spectroscopy system. The inte
 
 ## Quick Links
 
-- [Schematic (PDF)](CAD/Outputs/Schematic%20PDF/BioZSpec.pdf)
-- [PCB 3D Model (STEP)](CAD/Outputs/ExportSTEP/BioZ.step)
-- [Bill of Materials](CAD/Outputs/BOM/Bill%20of%20Materials-BioZSpec.xlsx)
+- [Schematic (PDF)](CAD/Bioimpedance%20Spectrometer/Outputs/Schematic%20PDF/BioZSpec.pdf)
+- [PCB 3D Model (STEP)](CAD/Bioimpedance%20Spectrometer/Outputs/ExportSTEP/BioZ.step)
+- [Bill of Materials](CAD/Bioimpedance%20Spectrometer/Outputs/BOM/Bill%20of%20Materials-BioZSpec.xlsx)
 
 ## Board Features
 
@@ -22,7 +22,7 @@ A discrete multi-frequency tetrapolar bioimpedance spectroscopy system. The inte
 - **ADC** - 14-bit, 1 MSPS differential SAR ADC 
 - **Excitation Waveform** - 16 MHz DDS-generated sine wave
 - **Demodulation** - Software lock-in demodulation (I/Q) via Goertzel filter, coherent excitation/sampling/reference with a 48 MHz oscillator 
-- **Calibration** - Three on-board precision complex loads for drift correction
+- **Calibration** - Three on-board precision complex loads for drift correction. External fixture for electrode compensation.
 - **Power** - Rechargeable LiPo cell via USB-C. 5V boost charge pump for excitation. Software-controlled high-side switch for analog chain for power saving
 - **MCU** - STM32G071
 
@@ -34,10 +34,10 @@ A discrete multi-frequency tetrapolar bioimpedance spectroscopy system. The inte
 - [x] Requirements
 - [x] Simulation / Schematic Capture
 - [x] Layout
-- [x] Board & Parts Acquisition 
+- [x] Board & Parts Acquisition
+- [x] Calibration Jigs
 - [ ] Firmware (*in progress*)
 - [ ] Assembly
-- [ ] Calibration Jigs
 - [ ] Bring-up
 - [ ] Design Verification & Benchmarking
 - [ ] Final Documentation
