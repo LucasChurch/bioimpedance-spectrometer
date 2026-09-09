@@ -1,14 +1,26 @@
-Project Outputs Generation Report
----------------------------------
-Start Output Generation At 16:47:31 On 2026-09-07
-
-Output: Export STEP
-Type  : ExportSTEP
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Variant [[No Variations]] of PCB Document [BioZ.PcbDoc]
-   Generated File[BioZ.step]
+   Generated File[BioZ_Copper_Signal_Top.gbr]
+   Generated File[BioZ_Copper_Plane_1.gbr]
+   Generated File[BioZ_Copper_Plane_2.gbr]
+   Generated File[BioZ_Copper_Signal_Bot.gbr]
+   Generated File[BioZ_Legend_Top.gbr]
+   Generated File[BioZ_Legend_Bot.gbr]
+   Generated File[BioZ_Soldermask_Top.gbr]
+   Generated File[BioZ_Soldermask_Bot.gbr]
+   Generated File[BioZ_Paste_Top.gbr]
+   Generated File[BioZ_Paste_Bot.gbr]
+   Generated File[BioZ_Profile.gbr]
+   Generated File[BioZ_NPTH_Drill.gbr]
+   Generated File[BioZ_PTH_Drill.gbr]
+   Generated File[BioZ_Drawing_1.gbr]
+   Generated File[BioZ_Drillmap_1.gbr]
+   Generated File[BioZ.EXTREP]
+   Generated File[BioZ.REP]
 
 
-Files Generated   : 1
+Files Generated   : 17
 Documents Printed : 0
 
-Finished Output Generation At 16:47:37 On 2026-09-07
+Finished Output Generation At 22:22:20 On 2026-09-08
